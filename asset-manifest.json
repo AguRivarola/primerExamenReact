@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/primerExamenReact/static/css/main.6d572391.css",
+    "main.js": "/primerExamenReact/static/js/main.3558f49d.js",
+    "index.html": "/primerExamenReact/index.html",
+    "main.6d572391.css.map": "/primerExamenReact/static/css/main.6d572391.css.map",
+    "main.3558f49d.js.map": "/primerExamenReact/static/js/main.3558f49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d572391.css",
+    "static/js/main.3558f49d.js"
+  ]
+}
